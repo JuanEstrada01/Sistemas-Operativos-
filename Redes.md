@@ -26,3 +26,5 @@ Un cliente de red o cliente _software_, en una red de computadoras, es la entida
 -  MAN (_Metropolitan_ _Area_ _Network_)
 -  WAN (_Wide_ _Area_ _Network_) Internet 
 -  SAN (_Storage_ _Area_ _Network_) la nube
+![Topologias](./imagenes/Topolog%C3%ADa_de_red.png)
+
