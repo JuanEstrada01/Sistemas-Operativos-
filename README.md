@@ -6,3 +6,8 @@ Este es mi primer acercamiento en git
 - Grado: Tercer Semestre 
 ## Tecnologia a usar 
 **Eleventy**
+
+# Enlaces importantes
+- [Resumen Sistemas Operativos](SO.md)
+- [Resumen Redes](Redes.md)
+- [Resumen Git](Git.md)
