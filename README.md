@@ -11,3 +11,5 @@ Este es mi primer acercamiento en git
 - [Resumen Sistemas Operativos](SO.md)
 - [Resumen Redes](Redes.md)
 - [Resumen Git](Git.md)
+- [Practica 4](https://profound-dolphin-ac6c90.netlify.app)
+- [Practica 5](https://astro-so.vercel.app)
